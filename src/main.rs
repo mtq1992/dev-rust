@@ -4,6 +4,6 @@
  *-------------------------------------------------------------------------------------------------------------*/
 
 fn main() {
-    let name = "VS Code Remote - Containers";
+    let name = "VS Code Remote - Containers mtq";
     println!("Hello, {}!", name);
 }
